@@ -29,3 +29,7 @@ docker-compose --version
 ```bash
  sudo curl -L https://raw.githubusercontent.com/docker/compose/1.25.5/contrib/completion/bash/docker-compose -o /etc/bash_completion.d/docker-compose
 ```
+
+### What's next
+###### [1. Install Kubernetes kubectl.](https://github.com/genral73/k8s-cli)
+
